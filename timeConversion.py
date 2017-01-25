@@ -8,7 +8,7 @@ check = time[-2:]
 
 if check == "PM" and hour != 12:
     hour += 12
-    
+
 if check == "AM" and hour == 12:
     hour = 0
 
