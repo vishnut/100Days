@@ -7,3 +7,5 @@ Day 1: Completed Warmup Problems
 Day 2: Started on CTCI Problems - not as much today as I was working on another personal project :)
 
 Day 3: A few more from CTCI
+
+Day 4: Project Euler #14 (pushed to a private repo), more from CTCI including DP and graph problems
