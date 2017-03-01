@@ -11,3 +11,7 @@ Day 3: A few more from CTCI
 Day 4: Project Euler #14 (pushed to a private repo), more from CTCI including DP and graph problems
 
 Day 5: A few from CTCI - cycles, queues, anagrams
+
+Day 6: CTCI - Bubble and Prime
+
+Day 7: CTCI - Lonely Island 
