@@ -18,6 +18,5 @@ Day 7: CTCI - Lonely Island
 
 Day 8: Fibonacci and Davis' Staircase from CTCI
 
-Day 9: Ice Cream Parlor from CTCI
+Day 9: Ice Cream Parlor from CTCI, counting inversions
 
-Note: I haven't been working on this everyday but I'll get back on track.
