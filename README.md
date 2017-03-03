@@ -16,4 +16,8 @@ Day 6: CTCI - Bubble and Prime
 
 Day 7: CTCI - Lonely Island 
 
+Day 8: Fibonacci and Davis' Staircase from CTCI
+
+Day 9: Ice Cream Parlor from CTCI
+
 Note: I haven't been working on this everyday but I'll get back on track.
