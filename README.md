@@ -20,3 +20,4 @@ Day 8: Fibonacci and Davis' Staircase from CTCI
 
 Day 9: Ice Cream Parlor from CTCI, counting inversions
 
+Day 10: Statistics, working on FreeCodeCamp on the side
